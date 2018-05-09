@@ -1,0 +1,33 @@
+# .dockerignore to keep it clean like.
+
+# Docker related ignores
+Dockerfile*
+docker-compose*
+.dockerignore
+
+
+# Ignore typical items
+README.md
+LICENSE
+CHANGELOG.md
+
+# Visual Studio Code related ignores
+.vscode
+*.code-workspace
+
+# testing
+test/
+coverage/
+
+# git
+.git
+.gitattributes
+.gitignore
+
+# NodeJS ignores
+node_modules/
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
