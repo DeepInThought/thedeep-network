@@ -1,13 +1,14 @@
-# INSTALL: NodeJS:8.11.1
-version: 2
+version: 2 # INSTALL: NodeJS:8.11.1 VERSION: CirclCI 2.0
 jobs:
   build:
+    working_directory: ~/thedeep-network
     docker:
       - image: circleci/node:8.11.1
-    working_directory: ~/thedeep-network
     steps:
       - checkout
-
+      - run:
+          name: update-npm 
+          command: 'sudo npm install -g npm@latest'
       # Download and cache dependencies
       - restore_cache:
           keys:
