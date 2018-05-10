@@ -1,0 +1,261 @@
+# INSTALL: NodeJS:8.11.1
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8.11.1
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "package.json" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      - run: 
+          name: Installing yarn
+          command: yarn install
+
+      - run:
+          name: Installing npm dependencies
+          command: npm install
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run: 
+          name: Executing yarn test
+          command: yarn test
+
+      - run:
+          name: Executing npm test
+          command: npm test
+
+      - run:
+          name: Update Greenkeeper lockfile
+          environment:
+            # https://github.com/greenkeeperio/greenkeeper-lockfile/issues/58
+            CI_PULL_REQUEST: ''
+          command: |
+            greenkeeper-lockfile-update
+
+# used for Docker Status Shields 
+  main:
+    docker:
+      - image: shieldsio/shields-ci-node-8:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Linter
+          when: always
+          command: npm run lint
+
+      - run:
+          name: Server unit tests
+          when: always
+          command: npm run test:js:server
+
+      - run:
+          name: Danger
+          when: always
+          command: npm run danger ci
+
+      - run:
+          name: Upload Greenkeeper lockfile
+          environment:
+            # https://github.com/greenkeeperio/greenkeeper-lockfile/issues/58
+            CI_PULL_REQUEST: ''
+          command: greenkeeper-lockfile-upload
+
+  main@node-9:
+    docker:
+      - image: shieldsio/shields-ci-node-9:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Linter
+          when: always
+          command: npm run lint
+
+      - run:
+          name: Server unit tests
+          when: always
+
+command: npm run test:js:server
+
+  frontend:
+    docker:
+      - image: shieldsio/shields-ci-node-8:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Frontend unit tests
+          when: always
+          command: npm run test:js:frontend
+
+      - run:
+          name: Frontend build completes successfully
+          when: always
+          
+command: npm run build
+
+  services-pr:
+    docker:
+      - image: shieldsio/shields-ci-node-8:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - run:
+          name: Prepare service tests
+          command: |
+            mkdir private
+            echo "{\"gh_token\":\"$GITHUB_TOKEN\"}" > private/secret.json
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Identify services tagged in the PR title
+          command: |
+            if [[ ! -z $CI_PULL_REQUEST ]]; then
+              npm run test:services:pr:prepare
+            else
+              echo 'This is not a pull request. Skipping.'
+            fi
+
+      - run:
+          name: Run tests for tagged services
+          command: |
+            if [[ ! -z $CI_PULL_REQUEST ]]; then
+              npm run test:services:pr:run
+            else
+              echo 'This is not a pull request. Skipping.'
+            fi
+
+  services-pr@node-9:
+    docker:
+      - image: shieldsio/shields-ci-node-9:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - run:
+          name: Prepare service tests
+          command: |
+            mkdir private
+            echo "{\"gh_token\":\"$GITHUB_TOKEN\"}" > private/secret.json
+
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Identify services tagged in the PR title
+          command: |
+            if [[ ! -z $CI_PULL_REQUEST ]]; then
+              npm run test:services:pr:prepare
+            else
+              echo 'This is not a pull request. Skipping.'
+            fi
+
+      - run:
+          name: Run tests for tagged services
+          command: |
+            if [[ ! -z $CI_PULL_REQUEST ]]; then
+              npm run test:services:pr:run
+            else
+              echo 'This is not a pull request. Skipping.'
+            fi
+
+  services-daily:
+    docker:
+      - image: shieldsio/shields-ci-node-8:0.0.2
+    working_directory: ~/thedeep-network
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run:
+          name: Run all service tests
+
+command: npm run test:services
+# INSTALL: Elasticsearch 
+# REF: https://github.com/CircleCI-Public/circleci-demo-workflows/blob/sequential-branch-filter/.circleci/config.yml
+# INFO: https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docker.html#docker-prod-cluster-composefile for more clarification.
+# NOTE: Make sure to use *-oss for non-commercial offerings.  See https://www.docker.elastic.co/# for more information.
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.2.4
+    container_name: elasticsearch
+    environment:
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esdata1:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - esnet
+# TODO: Add testing for elasticsearch!
+
+# WORKFLOWS
+workflows:
+  version: 2
+
+  on-commit:
+    jobs:
+      - npm-install:
+          filters:
+            branches:
+              ignore: gh-pages
+      - main:
+          requires:
+            - npm-install
+      - main@node-9:
+          requires:
+            - npm-install
+      - frontend:
+          requires:
+            - npm-install
+      - services-pr:
+          requires:
+            - npm-install
+      - services-pr@node-9:
+          requires:
+            - npm-install
+
+  daily:
+    triggers:
+      - schedule:
+          cron: "0 17 * * *"
+          filters:
+            branches:
+              only: master
+    jobs:
+      - services-daily
