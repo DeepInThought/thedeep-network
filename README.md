@@ -1,4 +1,4 @@
-thedeep.network Docker Image
+Official thedeep.network Repository
 ===========================
 By [@DeepInThought](https://github.com/DeepInThought). 
 
@@ -6,9 +6,10 @@ Docker Hub location can be found at [https://hub.docker.com/r/deepinthought/thed
 
 Purpose
 -------
-Will serve thedeep.network for some future projects.  More to come!
+Officaial GitHub and Docker Hub repository for thedeep.network projects.
 
-Installation
+
+Docker Installation
 -------
 * For a list of tags, see this [Docker Hub tags](https://hub.docker.com/r/deepinthought/thedeep-network/tags/) page.
 * The [Dockerfile](https://hub.docker.com/r/deepinthought/thedeep-network/~/dockerfile/) for more clarity.    
