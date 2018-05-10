@@ -38,11 +38,9 @@ jobs:
 
       - run:
           name: Update Greenkeeper lockfile
-          environment:
+          #environment:
             # https://github.com/greenkeeperio/greenkeeper-lockfile/issues/58
-            CI_PULL_REQUEST: ''
-          command: |
-            greenkeeper-lockfile-update
+          command: greenkeeper-lockfile-update
 
 # used for Docker Status Shields 
   main:
@@ -72,9 +70,7 @@ jobs:
 
       - run:
           name: Upload Greenkeeper lockfile
-          environment:
-            # https://github.com/greenkeeperio/greenkeeper-lockfile/issues/58
-            CI_PULL_REQUEST: ''
+          # environment:
           command: greenkeeper-lockfile-upload
 
   main@node-9:
@@ -230,24 +226,30 @@ workflows:
 
   on-commit:
     jobs:
+      - lockfile
       - npm-install:
           filters:
             branches:
               ignore: gh-pages
       - main:
           requires:
+            - lockfile
             - npm-install
       - main@node-9:
           requires:
+            - lockfile
             - npm-install
       - frontend:
           requires:
+            - lockfile            
             - npm-install
       - services-pr:
           requires:
+            - lockfile            
             - npm-install
       - services-pr@node-9:
           requires:
+            - lockfile            
             - npm-install
 
   daily:
@@ -258,4 +260,5 @@ workflows:
             branches:
               only: master
     jobs:
+      - lockfile        
       - services-daily
