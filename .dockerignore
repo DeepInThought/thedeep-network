@@ -12,7 +12,7 @@ LICENSE
 CHANGELOG.md
 
 # Visual Studio Code related ignores
-.vscode
+.vscode/*
 *.code-workspace
 
 # testing

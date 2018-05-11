@@ -245,23 +245,23 @@ workflows:
             - greenkeeper-lockfile-update
       - main:
           requires:
-            - npm install
+            - build
             - greenkeeper-lockfile-update
       - main@node-9:
           requires:
-            - npm install
+            - build
             - greenkeeper-lockfile-update
       - frontend:
           requires:
-            - npm install
+            - build
             - greenkeeper-lockfile-update
       - services-pr:
           requires:
-            - npm install
+            - build
             - greenkeeper-lockfile-update
       - services-pr@node-9:
           requires:
-            - npm install
+            - build
             - greenkeeper-lockfile-update
 
   daily:
