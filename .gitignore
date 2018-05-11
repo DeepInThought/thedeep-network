@@ -1,5 +1,5 @@
 # All things related to Visual Studio Code 
-.vscode/
+.vscode/*
 *.code-workspace
 
 *.DS_Store
