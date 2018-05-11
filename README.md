@@ -6,7 +6,7 @@ O.G. Author: [@DeepInThought](https://github.com/DeepInThought)
 | Repo Type     | Repo Name            | build status                      |
 | ------------- |:--------------------:| ---------------------------------:|
 |  GitHub.com   | [thedeep-network]    | [![CircleCI][ci-master]][master]  |
-Docker Hub Repository: [https://hub.docker.com/r/deepinthought/thedeep-network/](https://hub.docker.com/r/deepinthought/thedeep-network/)
+| Docker Hub    | [dockerhub-thedeep-network] | 
 
 Our Purpose
 -------
@@ -50,10 +50,11 @@ About DeepInThought
 
 ![DeepIT](https://raw.githubusercontent.com/DeepInThought/deep-www/master/docs/images/deep_main.png)
 
-# Refs
+[docs]: https://docs.thedeep.network
 [thedeep-network]: https://github.com/DeepInThought/thedeep-network.git 
+[dockerhub-thedeep-network]: https://hub.docker.com/r/deepinthought/thedeep-network/
 
-# .circleci build status badges and GitHub repository links.
+
 [ci-master]: https://circleci.com/gh/DeepInThought/thedeep-network.svg?style=svg
 [master]: https://circleci.com/gh/DeepInThought/thedeep-network/tree/master
 
