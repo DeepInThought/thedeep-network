@@ -38,10 +38,8 @@ jobs:
           command: npm test
 
       - run:
-          name: Update Greenkeeper lockfile
-          #environment:
-            # https://github.com/greenkeeperio/greenkeeper-lockfile/issues/58
-          command: greenkeeper-lockfile-update
+          name: Update Greenkeeper yarn.lock
+          command: yarn run greenkeeper-lockfile-update
 
 # used for Docker Status Shields 
   main:
@@ -70,9 +68,8 @@ jobs:
           command: npm run danger ci
 
       - run:
-          name: Upload Greenkeeper lockfile
-          # environment:
-          command: greenkeeper-lockfile-upload
+          name: Upload Greenkeeper yarn.lock 
+          command: yarn run greenkeeper-lockfile-upload
 
   main@node-9:
     docker:
@@ -223,13 +220,29 @@ services:
 workflows:
   version: 2
 
-  on-commit:
+  build-and-deploy:
     jobs:
-      - lockfile
-      - npm install:
+      - build
+      - deploy:
+          requires:
+            - build
           filters:
             branches:
               ignore: gh-pages
+      - greenkeeper-lockfile-update:
+          filters:
+            branches:
+              only: /^greenkeeper\/.*/
+          requires:
+            - build
+      - greenkeeper-lockfile-upload:
+          context: org-global
+          filters:
+            branches:
+              only: /^greenkeeper\/.*/
+          requires:
+            - build
+            - greenkeeper-lockfile-update
       - main:
           requires:
             - lockfile
