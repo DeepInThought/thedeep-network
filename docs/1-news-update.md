@@ -14,13 +14,13 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 
 ![https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png)
 
+1. **HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
 
-**1. HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
 #### DBC events and dates calendar can be found here.
-<p><a href="https://kryptocal.com/event/20222/airdrop">
+
+<a href="https://kryptocal.com/event/20222/airdrop">
 <img src="https://kryptocal.com/images/drawable-xhdpi-icon.png">
-</a></p>
-<p>
+</a>
 <table class="resultTable">
 <thead> 
 <tr>
@@ -75,9 +75,8 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </tr>
 </tbody>
 </table>
-</p>
 
-**2. MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
+2. **MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
 # DeepBrain Chain Weekly Report #11
 
@@ -85,12 +84,12 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 
 <https://medium.com/@deepbrainchain_74263/deepbrain-chain-weekly-report-11-192b1b6417f1>
 
-**3. MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.  
+3. **MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.  
 ![https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png](https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png)
 
 Source: <https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f>
 
-**4. REDDIT POST**: [Offical] DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel
+4. **REDDIT POST**: [Offical] DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel
 
 <p>The Reddit r/DeepBrainChain has a wealth of information. See the weekly general discussion for information on key links by the team, such as setting up a NEO5 compatible wallet.
 
