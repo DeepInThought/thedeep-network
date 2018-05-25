@@ -80,7 +80,7 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </tr>
 </tbody>
 </table>
-</body></p></html>
+</body></html>
 
 **2. MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
