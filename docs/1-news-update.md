@@ -17,7 +17,6 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 
 **1. HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -83,8 +82,7 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </table></p>
 <p></body></p>
 
-**2. MEDIUM POST**: <img src="https://cdn-images-1.medium.com/fit/c/120/120/1*08MnF_NTyjToybygOUWdnw.png" alt="Go to the profile of DeepBrain Chain">Weekly Report #11 from their official 
-<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.</a>
+**2. MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
 # DeepBrain Chain Weekly Report #11
 
