@@ -2,11 +2,13 @@
 
 *[Updated on 5/25/2018 @6:32 AM CST]*
 
-**NEW**: Official documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
+## **NEW**: 
+- *_Offical_* documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
 
 If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
 
-**Coming Soon...** : In the process of building a DBC mining pool site at :construction: [https://thedeep.network](https://thedeep.network) which is still being constructed. :construction: More to come!
+## **Coming Soon...**: 
+- In the process of building a DBC mining pool site at :construction: [https://thedeep.network](https://thedeep.network) which is still being constructed. :construction: More to come!
 
 ## [#stltraders news] - DeepBrain Chain Update
 -------
@@ -14,7 +16,8 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 
 ![https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png)
 
-- **HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
+## **HIGHLIGHT**: 
+- Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
 
 #### DBC events and dates calendar can be found here.
 
@@ -76,25 +79,28 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </tbody>
 </table>
 
-- **MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
+## **MEDIUM POST**: 
+- Weekly Report #11 from their *_Offical_* <a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
-# DeepBrain Chain Weekly Report #11
+### DeepBrain Chain Weekly Report #11
 
 ![DBCWeekly](https://cdn-images-1.medium.com/max/1600/1*zTpJZ-a4CvyNCWVvm9t0mg.png)
 
 <https://medium.com/@deepbrainchain_74263/deepbrain-chain-weekly-report-11-192b1b6417f1>
 
-- **MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.
-<p><br>
-<img src="https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png" alt="DBC OneGame Screenshot"></p>
+## **MEDIUM POST**:
+- <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.
+<p>
+<br>
+<img src="https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png" alt="DBC OneGame Screenshot">
+</p>
 
 Source: <https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f>
 
-- **REDDIT POST**: [Offical] DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel
-
-<p>The Reddit r/DeepBrainChain has a wealth of information. See the weekly general discussion for information on key links by the team, such as setting up a NEO5 compatible wallet.
-
-See this <a href="https://www.reddit.com/r/DeepBrainChain/"> u/DeepBrainChain</a> link for more details.</p>
+## **REDDIT POST**:
+- *_Offical_* DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel.
+<p>The Reddit <a href="https://www.reddit.com/r/DeepBrainChain/">[r/DeepBrainChain]</a> has a wealth of information. See the weekly general discussion for information on key links by the team, such as setting up a NEO5 compatible wallet.
+- A link to their *_Offical_* Reddit username <a href="https://www.reddit.com/user/DeepBrainChain">[u/DeepBrainChain]</a> for quick reference.</p>
 
 ----------
 [DeepBrain Chain Checklist] 
@@ -110,7 +116,7 @@ DeepBrain Chain (DBC) is priming up for it’s Q3 roadmap goals of releasing the
 ![https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/ROADMAP_2018_Q3-2019_Q1-DeepBrainChainWhitepaper_EN.pdf.png](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/ROADMAP_2018_Q3-2019_Q1-DeepBrainChainWhitepaper_EN.pdf.png)
    
 
- 3. The ***official whitepaper*** of DeepBrain Chain can be located [here](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/DeepBrainChainWhitepaper_EN.pdf).
+ 3. The ***_Official Whitepaper_*** of DeepBrain Chain can be located [here](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/DeepBrainChainWhitepaper_EN.pdf).
 It's about 33~ MiB in size, so be patient on loading. I highly
 recommend you read through it, as it contains quite a bit of
 information.
