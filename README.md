@@ -1,5 +1,6 @@
 thedeep.network [README.md](thedeep-network/README.md)
 ===========================
+You can find our first news post at [docs/1-news-update.md](docs/1-news-update.md)
 
 O.G. Author: [@DeepInThought](https://github.com/DeepInThought)
 
