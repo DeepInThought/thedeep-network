@@ -15,71 +15,20 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 ![https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/imgs/DeepBrain_Chain_logo.png)
 
 
-**HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
+**1. HIGHLIGHT**: Deepbrain chain (CRYPTO:DBC) Achieves market cap of $121.77 Million. See this post from <a href="https://ledgergazette.com/2018/05/23/deepbrain-chain-market-cap-hits-130-93-million-dbc.html">The Ledger Gazette</a>  fore more details.
 
-#### DBC events and dates calendar can be found here.
-
-<a href="https://kryptocal.com/event/20222/airdrop">
-    ![https://kryptocal.com/images/drawable-xhdpi-icon.png](https://kryptocal.com/images/drawable-xhdpi-icon.png)
-</a>
-
-<p>
-<style>
-.resultTable {
--ms-border-bottom-left-radius: 2px;
--ms-border-bottom-right-radius: 2px;
-border: solid 1px #dddddd;
-border-bottom-left-radius: 2px;
-border-bottom-right-radius: 2px;
-border-collapse: collapse;
-border-spacing: 2px;
-font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
-width: 100%;
-}
-.resultTable td {
-padding: 12px 18px;
-}
-.resultTable tr {
-border: solid 1px #dddddd;
-}
-.resultTable tr>th {
-background-color: #37474f;
-color: #ffffff;
-font-size: 14px;
-font-weight: 500;
-height: 30px;
-line-height: 30px;
-padding: 10px;
-text-align: left;
-}
-.label {
--ms-border-radius: 2px;
-border: 1px solid transparent;
-border-radius: 2px;
-color: white;
-display: inline-block;
-font-size: 10px;
-font-weight: 600;
-letter-spacing: .1px;
-line-height: 1.5384616;
-padding: 2px 5px 1px 5px;
-text-transform: uppercase;
-}
-.date {
-color: #999999;
-font-size: 12px;
-margin-top: 2px;
-}
-.title {
-color: #03a9f4;
-font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
-font-size: 14px;
-font-weight: 500;
-line-height: 1.5384616;
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<h4>DBC events and dates calendar can be found here.</h4>
+<p><a href="https://kryptocal.com/event/20222/airdrop">
+<img src="https://kryptocal.com/images/drawable-xhdpi-icon.png">
+</a></p>
+</head>
+<body><p>
 <table class="resultTable">
-<thead>
+<thead> 
 <tr>
 <th style="width: 100%">Title & Date</th>
 <th>Category</th>
@@ -131,13 +80,11 @@ line-height: 1.5384616;
 </td>
 </tr>
 </tbody>
-</table>
-</p>
+</table></p>
+<p></body></p>
 
-**3. MEDIUM POST**: Weekly Report #11 from their official 
-<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.
-![Go to the profile of DeepBrain Chain](https://cdn-images-1.medium.com/fit/c/120/120/1*08MnF_NTyjToybygOUWdnw.png) 
-</a>
+**2. MEDIUM POST**: <img src="https://cdn-images-1.medium.com/fit/c/120/120/1*08MnF_NTyjToybygOUWdnw.png" alt="Go to the profile of DeepBrain Chain">Weekly Report #11 from their official 
+<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.</a>
 
 # DeepBrain Chain Weekly Report #11
 
@@ -145,12 +92,12 @@ line-height: 1.5384616;
 
 <https://medium.com/@deepbrainchain_74263/deepbrain-chain-weekly-report-11-192b1b6417f1>
 
-**4. MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.  
+**3. MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.  
 ![https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png](https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png)
 
 Source: <https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f>
 
-**5. REDDIT POST**: [Offical] DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel
+**4. REDDIT POST**: [Offical] DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel
 
 <p>The Reddit r/DeepBrainChain has a wealth of information. See the weekly general discussion for information on key links by the team, such as setting up a NEO5 compatible wallet.
 
