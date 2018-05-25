@@ -85,8 +85,8 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 <https://medium.com/@deepbrainchain_74263/deepbrain-chain-weekly-report-11-192b1b6417f1>
 
 3. **MEDIUM POST**: <a href="https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f">OneGame</a> — A project Based on DeepBrain Chain’s Public Chain as posted on their medium page.
-
-<p><img src="https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png" alt="DBC OneGame Screenshot"></p>
+<p><br>
+<img src="https://cdn-images-1.medium.com/max/800/1*BigclP229fDqhjGDucVvQw.png" alt="DBC OneGame Screenshot"></p>
 
 Source: <https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f>
 
