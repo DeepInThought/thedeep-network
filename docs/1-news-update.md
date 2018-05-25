@@ -1,13 +1,14 @@
+# [thedeep.network] 1st News Post!
 
-###  Slack #stltraders Channel Details
-----------
-Welcome to #stltraders on the [deepinthought.slack.com](http://deepinthought.slack.com) Slack workspace.
+*[Updated on 5/25/2018 @6:32 AM CST]*
 
-Invites are currently locked down, but if you know anyone that you would like to invite. Just send me their email address or have them reach out to me directly.
+**NEW**: Official documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
 
-We're a community of people with ties to St. Louis, MO. The goal is to provide sound advice in the cryptocurrency and blockchain realm.
+If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
 
-[#stltraders news] - DeepBrain Chain Update
+**Coming Soon...** : In the process of building a DBC mining pool site at :construction:[https://thedeep.network](https://thedeep.network) which is still being constructed.:construction: More to come!
+
+## [#stltraders news] - DeepBrain Chain Update
 -------
 *[Updated on 5/25/2018 @11:41 PM CST]*
 
@@ -79,12 +80,11 @@ information.
               on DeepBrain Chain (DBC) by a former hedge fund associate.</a> An
               excellent analysis, I highly recommend reading it.
 
-## [thedeep.network] Updates
 
-*[Updated on 5/25/2018 @6:32 AM CST]*
+###  Slack #stltraders Channel Details
+----------
+Welcome to #stltraders on the [deepinthought.slack.com](http://deepinthought.slack.com) Slack workspace.
 
-**NEW**: Official documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
+Invites are currently locked down, but if you know anyone that you would like to invite. Just send me their email address or have them reach out to me directly.
 
-If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
-
-**Coming Soon...**:  In the process of building a DBC mining pool site at [https://thedeep.network](https://thedeep.network) which is still being constructed. More to come!
+We're a community of people with ties to St. Louis, MO. The goal is to provide sound advice in the cryptocurrency and blockchain realm.
