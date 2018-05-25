@@ -1,4 +1,4 @@
-# [thedeep.network] 1st News Post!
+# [thedeep.network] _1st News Post!_
 
 *[Updated on 5/25/2018 @6:32 AM CST]*
 
