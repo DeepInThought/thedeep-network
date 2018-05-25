@@ -1,10 +1,8 @@
 # **[thedeep.network]**- _1st News Post!_
 ------
-*[Updated on 5/25/2018 @6:32 AM CST]*
+*[Updated on 5/25/2018 @6:32 AM CST]* - *News Update v0.01*
 
-+ Welcome to our first news posting! 
-+ News Update v0.01 
-+ This update covers a weatlh of information related to the DeepBrain Chain A.I. decentralized blockchain project.  We hope to provide a quality mining pool to this project very soon! 
+> ````Welcome to our first news posting!  This update covers a weatlh of information related to the DeepBrain Chain A.I. decentralized blockchain project.  We hope to provide a quality mining pool to this project very soon!````
 
 - [**[thedeep.network]**-_1st News Post!_](#thedeepnetwork--1st-news-post)
     - [**[NEW]**:](#new)
@@ -20,7 +18,7 @@
 ## **[NEW]**: 
 - ***Offical*** documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
 
-If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
+If anyone’s interested in a mining opportunity, just shoot <a href="https://github.com/DeepInThought">@DeepInThought</a> a message and I can discuss more in-depth.
 
 ## **[COMING SOON]**: 
 - In the process of building a DBC mining pool site at :construction: [https://thedeep.network](https://thedeep.network) which is still being constructed. :construction: More to come!
