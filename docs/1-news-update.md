@@ -2,7 +2,7 @@
 ------
 *[Updated on 5/25/2018 @6:32 AM CST]* - *News Update v0.01*
 
-> ````Welcome to our first news posting!  This update covers a weatlh of information related to the DeepBrain Chain A.I. decentralized blockchain project.  We hope to provide a quality mining pool to this project very soon!````
+> Welcome to our first news posting!  This update covers a weatlh of information related to the DeepBrain Chain A.I. decentralized blockchain project.  We hope to provide a quality mining pool to this project very soon!
 
 - [**[thedeep.network]**-_1st News Post!_](#thedeepnetwork--1st-news-post)
     - [**[NEW]**:](#new)
