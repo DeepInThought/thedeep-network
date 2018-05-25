@@ -20,10 +20,119 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 #### DBC events and dates calendar can be found here.
 
 <a href="https://kryptocal.com/event/20222/airdrop">
-
-![https://kryptocal.com/images/drawable-xhdpi-icon.png](https://kryptocal.com/images/drawable-xhdpi-icon.png)
+    ![https://kryptocal.com/images/drawable-xhdpi-icon.png](https://kryptocal.com/images/drawable-xhdpi-icon.png)
 </a>
-<style>        .resultTable {            -ms-border-bottom-left-radius: 2px;            -ms-border-bottom-right-radius: 2px;            border: solid 1px #dddddd;            border-bottom-left-radius: 2px;            border-bottom-right-radius: 2px;            border-collapse: collapse;            border-spacing: 2px;            font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;            width: 100%;        }        .resultTable td { padding: 12px 18px; }        .resultTable tr { border: solid 1px #dddddd; }        .resultTable tr > th {            background-color: #37474f;            color: #ffffff;            font-size: 14px;            font-weight: 500;            height: 30px;            line-height: 30px;            padding: 10px;            text-align: left;        }        .label {            -ms-border-radius: 2px;            border: 1px solid transparent;            border-radius: 2px;            color: white;            display: inline-block;            font-size: 10px;            font-weight: 600;            letter-spacing: .1px;            line-height: 1.5384616;            padding: 2px 5px 1px 5px;            text-transform: uppercase;        }        label {            font-weight: 400;            margin-bottom: 7px;            max-width: 100%;        }        .date {            color: #999999;            font-size: 12px;            margin-top: 2px;        }        .title {            color: #03a9f4;            font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;            font-size: 14px;            font-weight: 500;            line-height: 1.5384616;        }    </style>    <table class="resultTable">            <thead>            <tr>                <th style="width: 100%">Title & Date</th>                    <th>Category</th>            </tr>            </thead>        <tbody>            <tr>                <td>                    <div class="title"><a href="https://kryptocal.com/event/20222/airdrop">Airdrop</a></div>                    <div class="date">June 16, 2018</div>                </td>                    <td>                        <label class="label" style="background-color: #607d8b">Air Drop</label>                    </td>            </tr>            <tr>                <td>                    <div class="title"><a href="https://kryptocal.com/event/15844/integration-of-dbc-ai">Integration of DBC AI</a></div>                    <div class="date">June 30, 2018</div>                </td>                    <td>                        <label class="label" style="background-color: #e91e63">General</label>                    </td>            </tr>            <tr>                <td>                    <div class="title"><a href="https://kryptocal.com/event/15845/starting-cooperation">Starting Cooperation</a></div>                    <div class="date">June 30, 2018</div>                </td>                    <td>                        <label class="label" style="background-color: #e91e63">General</label>                    </td>            </tr>            <tr>                <td>                    <div class="title"><a href="https://kryptocal.com/event/15846/alpha-beta-reward-system">Alpha&#x2B;Beta Reward System</a></div>                    <div class="date">June 30, 2018</div>                </td>                    <td>                        <label class="label" style="background-color: #e91e63">General</label>                    </td>            </tr>        </tbody>    </table>
+
+<p>
+<style>
+.resultTable {
+-ms-border-bottom-left-radius: 2px;
+-ms-border-bottom-right-radius: 2px;
+border: solid 1px #dddddd;
+border-bottom-left-radius: 2px;
+border-bottom-right-radius: 2px;
+border-collapse: collapse;
+border-spacing: 2px;
+font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+width: 100%;
+}
+.resultTable td {
+padding: 12px 18px;
+}
+.resultTable tr {
+border: solid 1px #dddddd;
+}
+.resultTable tr>th {
+background-color: #37474f;
+color: #ffffff;
+font-size: 14px;
+font-weight: 500;
+height: 30px;
+line-height: 30px;
+padding: 10px;
+text-align: left;
+}
+.label {
+-ms-border-radius: 2px;
+border: 1px solid transparent;
+border-radius: 2px;
+color: white;
+display: inline-block;
+font-size: 10px;
+font-weight: 600;
+letter-spacing: .1px;
+line-height: 1.5384616;
+padding: 2px 5px 1px 5px;
+text-transform: uppercase;
+}
+.date {
+color: #999999;
+font-size: 12px;
+margin-top: 2px;
+}
+.title {
+color: #03a9f4;
+font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 1.5384616;
+}
+</style>
+<table class="resultTable">
+<thead>
+<tr>
+<th style="width: 100%">Title & Date</th>
+<th>Category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<div class="title">
+<a href="https://kryptocal.com/event/20222/airdrop">Airdrop</a>
+</div>
+<div class="date">June 16, 2018</div>
+</td>
+<td>
+<label class="label" style="background-color: #607d8b">Air Drop</label>
+</td>
+</tr>
+<tr>
+<td>
+<div class="title">
+<a href="https://kryptocal.com/event/15844/integration-of-dbc-ai">Integration of DBC AI</a>
+</div>
+<div class="date">June 30, 2018</div>
+</td>
+<td>
+<label class="label" style="background-color: #e91e63">General</label>
+</td>
+</tr>
+<tr>
+<td>
+<div class="title">
+<a href="https://kryptocal.com/event/15845/starting-cooperation">Starting Cooperation</a>
+</div>
+<div class="date">June 30, 2018</div>
+</td>
+<td>
+<label class="label" style="background-color: #e91e63">General</label>
+</td>
+</tr>
+<tr>
+<td>
+<div class="title">
+<a href="https://kryptocal.com/event/15846/alpha-beta-reward-system">Alpha&#x2B;Beta Reward System</a>
+</div>
+<div class="date">June 30, 2018</div>
+</td>
+<td>
+<label class="label" style="background-color: #e91e63">General</label>
+</td>
+</tr>
+</tbody>
+</table>
+</p>
 
 **3. MEDIUM POST**: Weekly Report #11 from their official 
  <a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.
