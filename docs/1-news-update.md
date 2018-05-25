@@ -3,7 +3,7 @@
 *[Updated on 5/25/2018 @6:32 AM CST]*
 
 ## **NEW**: 
-- *_Offical_* documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
+- ***Offical*** documents site is LIVE at [https://docs.thedeep.network](https://docs.thedeep.network) and will serve as the central FAQ going forward for the mining pool itself.
 
 If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
 
@@ -80,7 +80,7 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </table>
 
 ## **MEDIUM POST**: 
-- Weekly Report #11 from their *_Offical_* <a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
+- Weekly Report #11 from their ***Offical*** <a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
 ### DeepBrain Chain Weekly Report #11
 
@@ -98,9 +98,9 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 Source: <https://medium.com/@deepbrainchain_74263/onegame-a-project-based-on-deepbrain-chains-public-chain-1f7427495e6f>
 
 ## **REDDIT POST**:
-- *_Offical_* DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel.
+- ***Offical*** DeepBrain Chain [Reddit](https://www.reddit.com/r/DeepBrainChain/) Channel.
 <p>The Reddit <a href="https://www.reddit.com/r/DeepBrainChain/">[r/DeepBrainChain]</a> has a wealth of information. See the weekly general discussion for information on key links by the team, such as setting up a NEO5 compatible wallet.
-- A link to their *_Offical_* Reddit username <a href="https://www.reddit.com/user/DeepBrainChain">[u/DeepBrainChain]</a> for quick reference.</p>
+- A link to their ***Offical*** Reddit username <a href="https://www.reddit.com/user/DeepBrainChain">[u/DeepBrainChain]</a> for quick reference.</p>
 
 ----------
 [DeepBrain Chain Checklist] 
@@ -116,7 +116,7 @@ DeepBrain Chain (DBC) is priming up for it’s Q3 roadmap goals of releasing the
 ![https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/ROADMAP_2018_Q3-2019_Q1-DeepBrainChainWhitepaper_EN.pdf.png](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/ROADMAP_2018_Q3-2019_Q1-DeepBrainChainWhitepaper_EN.pdf.png)
    
 
- 3. The ***_Official Whitepaper_*** of DeepBrain Chain can be located [here](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/DeepBrainChainWhitepaper_EN.pdf).
+ 3. The ***Offical Whitepaper*** of DeepBrain Chain can be located [here](https://nyc3.digitaloceanspaces.com/deepit-space/deepinthought/public/deepbrainchain/whitepapers/DeepBrainChainWhitepaper_EN.pdf).
 It's about 33~ MiB in size, so be patient on loading. I highly
 recommend you read through it, as it contains quite a bit of
 information.
