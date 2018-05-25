@@ -6,7 +6,7 @@
 
 If anyone’s interested in a mining opportunity, just shoot @DeepInThought a message and I can discuss more in-depth.
 
-**Coming Soon...** : In the process of building a DBC mining pool site at :construction:[https://thedeep.network](https://thedeep.network) which is still being constructed.:construction: More to come!
+**Coming Soon...** : In the process of building a DBC mining pool site at :construction: [https://thedeep.network](https://thedeep.network) which is still being constructed. :construction: More to come!
 
 ## [#stltraders news] - DeepBrain Chain Update
 -------
