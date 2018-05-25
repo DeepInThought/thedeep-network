@@ -80,7 +80,7 @@ If anyone’s interested in a mining opportunity, just shoot @DeepInThought a me
 </tr>
 </tbody>
 </table>
-</body></html>
+
 
 **2. MEDIUM POST**: Weekly Report #11 from their official<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup"> Medium page.</a>
 
@@ -141,3 +141,5 @@ Welcome to #stltraders on the [deepinthought.slack.com](http://deepinthought.sla
 Invites are currently locked down, but if you know anyone that you would like to invite. Just send me their email address or have them reach out to me directly.
 
 We're a community of people with ties to St. Louis, MO. The goal is to provide sound advice in the cryptocurrency and blockchain realm.
+
+</body></html>
