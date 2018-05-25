@@ -135,8 +135,7 @@ line-height: 1.5384616;
 </p>
 
 **3. MEDIUM POST**: Weekly Report #11 from their official 
- <a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.
-
+<a href="https://medium.com/@deepbrainchain_74263?source=post_header_lockup">Medium page.
 ![Go to the profile of DeepBrain Chain](https://cdn-images-1.medium.com/fit/c/120/120/1*08MnF_NTyjToybygOUWdnw.png) 
 </a>
 
