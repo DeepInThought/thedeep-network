@@ -1,8 +1,6 @@
-thedeep.network [README.md](thedeep-network/README.md)
+thedeep.network [README.md](./README.md)
 ===========================
-You can find our first news post at [docs/1-news-update.md](docs/1-news-update.md)
-
-O.G. Author: [@DeepInThought](https://github.com/DeepInThought)
+#### Our first news posting can be found at [docs/1-news-update.md](docs/1-news-update.md)!
 
 | Repo Type     | Repo Name            | build status                      |
 | ------------- |:--------------------:| ---------------------------------:|
@@ -58,4 +56,3 @@ About DeepInThought
 
 [ci-master]: https://circleci.com/gh/DeepInThought/thedeep-network.svg?style=svg
 [master]: https://circleci.com/gh/DeepInThought/thedeep-network/tree/master
-
